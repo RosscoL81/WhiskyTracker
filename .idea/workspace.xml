@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30b5a524-fa95-46af-afca-981270b72bfb" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UWT3YpAp222qV1HH5PXwOimsID" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.WhiskyTrackerApplicationTests.canFindWhiskysThatHaveSpecificAgeAndParticularDistillery">
+    <configuration name="WhiskyTrackerApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests.canFindWhiskysThatHaveSpecificAgeAndParticularDistillery" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="canFindWhiskysThatHaveSpecificAgeAndParticularDistillery" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests.findDistilleriesWithParticularRegion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="findDistilleriesWithParticularRegion" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhiskyTrackerApplicationTests.findWhiskysThatHaveParticularYear" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WhiskyTracker" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codeclan.example.WhiskyTracker.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.codeclan.example.WhiskyTracker" />
+      <option name="MAIN_CLASS_NAME" value="com.codeclan.example.WhiskyTracker.WhiskyTrackerApplicationTests" />
+      <option name="METHOD_NAME" value="findWhiskysThatHaveParticularYear" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.canFindWhiskysThatHaveSpecificAgeAndParticularDistillery" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findDistilleriesWithParticularRegion" />
+        <item itemvalue="JUnit.WhiskyTrackerApplicationTests.findWhiskysThatHaveParticularYear" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30b5a524-fa95-46af-afca-981270b72bfb" name="Default Changelist" comment="" />
+      <created>1575471152677</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575471152677</updated>
+    </task>
+    <servers />
+  </component>
+</project>
